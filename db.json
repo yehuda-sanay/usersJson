@@ -16,7 +16,7 @@
     "firstName":"aviv",
     "lastName":"tadela",
     "city":"petah tikva",
-    "isStudent":true,
+    "isStudent":false,
     "school":["morasha","alomim","hod hasaron"],
     "languages":
     {"english":5,
@@ -39,7 +39,7 @@
     "firstName":"nadav",
     "lastName":"talala",
     "city":"petah tikva",
-    "isStudent":true,
+    "isStudent":false,
     "school":["morasha","alomim","ben gorion"],
     "languages":
     {"english":0,
