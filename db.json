@@ -1,0 +1,49 @@
+{
+"user":[{
+    "id":1,
+    "firstName":"yehuda",
+    "lastName":"sanay",
+    "city":"petah tikva",
+    "isStudent":true,
+    "school":["morasha","mahale","amit"],
+    "languages":
+    {"english":3,
+    "amharit":4
+}
+},
+{
+    "id":2,
+    "firstName":"aviv",
+    "lastName":"tadela",
+    "city":"petah tikva",
+    "isStudent":true,
+    "school":["morasha","alomim","hod hasaron"],
+    "languages":
+    {"english":5,
+    "amharit":1
+}
+},
+{
+    "id":3,
+    "firstName":"yoav",
+    "lastName":"sanay",
+    "city":"petah tikva",
+    "isStudent":true,
+    "school":["morasha","mahale","shapira"],
+    "languages":
+    {"english":4,
+    "amharit":2
+}
+},{
+    "id":4,
+    "firstName":"nadav",
+    "lastName":"talala",
+    "city":"petah tikva",
+    "isStudent":true,
+    "school":["morasha","alomim","ben gorion"],
+    "languages":
+    {"english":0,
+    "amharit":0
+}
+}]
+}
